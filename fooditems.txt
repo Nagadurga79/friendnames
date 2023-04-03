@@ -1,0 +1,3 @@
+itemname,price
+chickenbiryani,130
+friedrice,80
