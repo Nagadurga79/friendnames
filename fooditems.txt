@@ -1,3 +1,4 @@
 itemname,price
 chickenbiryani,130
 friedrice,11
+chicken,150
